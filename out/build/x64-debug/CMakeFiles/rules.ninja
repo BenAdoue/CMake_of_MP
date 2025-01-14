@@ -56,7 +56,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe $FILE_ARG -t clean $TARGETS
+  command = E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\Microsoft\CMake\Ninja\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -64,6 +64,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe -t targets
+  command = E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\Microsoft\CMake\Ninja\ninja.exe -t targets
   description = All primary targets available:
 

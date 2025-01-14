@@ -87,7 +87,7 @@ CMAKE_INSTALL_PREFIX:PATH=E:/MicrosoftVisualStudio/Project_file/Cpp_for_Motion_P
 CMAKE_LINKER:FILEPATH=E:/MicrosoftVisualStudio/2022/2022Community/VC/Tools/MSVC/14.32.31326/bin/Hostx64/x64/link.exe
 
 //No help, variable specified on the command line.
-CMAKE_MAKE_PROGRAM:UNINITIALIZED=E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe
+CMAKE_MAKE_PROGRAM:UNINITIALIZED=E:\MICROSOFTVISUALSTUDIO\2022\2022COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\Microsoft\CMake\Ninja\ninja.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.
